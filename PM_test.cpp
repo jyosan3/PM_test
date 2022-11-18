@@ -7,9 +7,7 @@ int main()
 {
     std::cout << "Hello VisualStudio Git!\n";
 
-    std::cout << "Hello New branch!\n";
-
-    std::cout << "third branch!\n";
+    std::cout << "GitHub Clone chenged\n";
 
 }
 
